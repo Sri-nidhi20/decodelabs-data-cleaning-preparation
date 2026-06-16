@@ -250,7 +250,7 @@ The final cleaned dataset is suitable for:
 
 # AUTHOR
 
-** Srinidhi Kukutam **
+**Srinidhi Kukutam**
 
 Data Analyst Intern - Decodelabs Internship Program
 
