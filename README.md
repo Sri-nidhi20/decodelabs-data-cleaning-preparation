@@ -120,6 +120,7 @@ Actions:
 - Numerical columns -> Median Imputation
 - Categorical columns -> Mode Imputation
 
+![Missing Values](screenshots/missing_values_after_cleaning.png)
 ---
 
 ## 4. Duplicate Record Check
@@ -139,6 +140,7 @@ Result:
 
 - Duplicate records were checked and handled appropriately.
 
+![Duplicates](screenshots/duplicates_check.png)
 ---
 
 ## 5. Data Type Validation
@@ -176,6 +178,7 @@ Observation:
 
 - No significant outliers were observed, indicating that the values fall within a reasonable business range and do not require treatment.
 
+![Outliers](screenshots/quality_outliers.png)
 ---
 
 ## 7. Final Validation
