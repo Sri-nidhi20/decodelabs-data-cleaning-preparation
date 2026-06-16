@@ -233,7 +233,19 @@ The repository contains screenshots demonstrating:
 - Screenshots
 
 ---
+# Business Impact
 
+The data cleaning process improved dataset quality and reliability by:
+
+- Eliminating duplicate records
+- Handling missing values systematically
+- Validating data consistency
+- Improving readiness for analytics workflows
+- Supporting accurate business decision-making
+
+A clean dataset reduces analytical errors and improves the quality of future reporting , dashboarding and machine learning projects.
+
+---
 # Outcome
 
 The dataset was successfully cleaned and validated.
