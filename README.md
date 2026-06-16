@@ -17,7 +17,7 @@ The objective was to identify and handle data quality issues such as:
 - Outliers
 - Invalid data entries
 
-The final cleaned dataset is ready for Exploratory Data Analysis (EDA), visulaization, and business intelligence applications.
+The final cleaned dataset is ready for Exploratory Data Analysis (EDA), visualization, and business intelligence applications.
 
 ---
 
@@ -143,7 +143,7 @@ Result:
 
 ## 5. Data Type Validation
 
-verified all column data types using:
+Verified all column data types using:
 
 ```python
 df.dtypes
@@ -161,13 +161,13 @@ Purpose:
 
 Outliers were analyzed using boxplots.
 
-Exampled:
+Example:
 
 ```python
-plt.boxplot(df["Quanity"])
+plt.boxplot(df["Quantity"])
 ```
 
-Vaiables analyzed:
+Variables analyzed:
 
 - Quanity
 - Unit Price
@@ -213,7 +213,7 @@ Result:
 
 # Project Screenshots
 
-The repository contains screenshots demonstarting:
+The repository contains screenshots demonstrating:
 
 - Dataset Information
 - Missing Value Analysis
@@ -254,4 +254,4 @@ The final cleaned dataset is suitable for:
 
 Data Analyst Intern - Decodelabs Internship Program
 
-Github: https://github.com/Sri-nidhi20
+GitHub: https://github.com/Sri-nidhi20
