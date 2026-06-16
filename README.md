@@ -2,7 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-Data%20Cleaning-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Analysis-green)
-![Internship-DecodeLabs-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Data%20Processing-blueviolet)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![DecodeLabs](https://img.shields.io/badge/Internship-DecodeLabs-red)
 
 
 ## Project Overview
